@@ -1,4 +1,4 @@
-<h1 align="center">微软人工智能教育与学习共建社区</h1>
+<h1 align="center">微软ssp人工智能教育与学习共建社区</h1>
 
 微软人工智能教育与学习共建社区（Microsoft AI Education Community, 简称AI-Edu）是微软亚洲研究院（Microsoft Research Asia，简称MSRA）人工智能教育团队创立的人工智能开源社区。
   
